@@ -1,0 +1,12 @@
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\bin\Debug\net8.0\Comman.deps.json
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\bin\Debug\net8.0\Comman.dll
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\bin\Debug\net8.0\Comman.pdb
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\Comman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\Comman.AssemblyInfoInputs.cache
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\Comman.AssemblyInfo.cs
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\Comman.csproj.CoreCompileInputs.cache
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\Comman.sourcelink.json
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\Comman.dll
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\refint\Comman.dll
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\Comman.pdb
+D:\Asp.Net Task (PB-202)\SOLID_Learning_architecture\Comman\obj\Debug\net8.0\ref\Comman.dll

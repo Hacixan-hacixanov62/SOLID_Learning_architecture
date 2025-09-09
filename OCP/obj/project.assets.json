@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Comman/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Comman.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Comman.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Comman/1.0.0": {
+      "type": "project",
+      "path": "../Comman/Comman.csproj",
+      "msbuildProject": "../Comman/Comman.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Comman >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\user\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Asp.Net Task (PB-202)\\SOLID_Learning_architecture\\Comman\\Comman.csproj": {
+              "projectPath": "D:\\Asp.Net Task (PB-202)\\SOLID_Learning_architecture\\Comman\\Comman.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
